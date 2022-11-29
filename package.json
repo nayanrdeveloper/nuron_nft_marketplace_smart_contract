@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/nayanrdeveloper/nuron_nft_marketplace_smart_contract#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.8.0",
     "dotenv": "^16.0.3",
     "hardhat": "^2.12.2"
   },
